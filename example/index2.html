@@ -1,0 +1,56 @@
+<!-- <html>
+    <head>
+        
+    </head>
+    <body>
+        <span id="num1-el"></span>
+        <span id="num2-el"></span>
+        <br>
+        <button onclick="add()">Add</button>
+        <button onclick="subtract()">Subtract</button>
+        <button onclick="divide()">Divide</button>
+        <button onclick="multiply()">Multiply</button>
+        <br>
+        <span id="sum-el">Sum: </span>
+        <script src="index.js"></script>
+    </body>
+</html> -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basketball Scoreboard</title>
+</head>
+<body>
+    <div class="container">
+        <div class="home">
+            <h1>HOME</h1>
+            <button id="home-btn">0</button>
+            <div class="operate">
+                <button id="btn-one" onclick="plusOne()">+1</button>
+                <button id="btn-two" onclick="plusTwo()">+2</button>
+                <button id="btn-three" onclick="plusThree()">+3</button>
+            </div>
+        </div>
+        <div class="guest">
+            <h1>GUEST</h1>
+            <button id="guest-btn">0</button>
+            <div class="operate">
+                <button id="btn-one" onclick="guestPlusOne()">+1</button>
+                <button id="btn-two" onclick="guestPlusTwo()">+2</button>
+                <button id="btn-three" onclick="guestPlusThree()">+3</button>
+            </div>
+            <div>
+                <br>
+                <button id="save-btn" onclick="save()">SAVE</button>
+                <p id="homeCount">Home Count: </p>
+                <p id="guestCount">Guest Count: </p>
+            </div>
+        </div>
+    </div>
+    
+    <script src="index2.js"></script>
+</body>
+</html>
