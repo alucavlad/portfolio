@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Updated Romel Resume</title>
+</head>
+
+<body>
+<h1>Romel A. Moreno</h1>
+<h3>This is my 
+<br>picture wearing 
+<br>an office attire</h3>
+<img src="pic2.jpg" width="200" height="200">
+
+<p>Profile:</p>
+<p>Dedicated and experienced computer technician with a background in software installation, troubleshooting computer issues, and providing exceptional customer service.
+<br> Skilled in resolving software and hardware problems, fixing printer issues, performing various tasks such as typing, editing photos, scanning, and printing documents.
+<br> Demonstrated ability to work effectively with diverse customers and continuously enhance software and technical skills.</p>
+
+<p>Education:</p>
+<p>HIGH SCHOOL
+<br>University of The East</p>
+		
+<p>BACHELOR OF SCIENCE IN COMPUTER SCIENCE
+<br>National University</p>
+
+<p>Work Experience:</p>
+<p>E.A. Moreno Computer Shop
+<br>2010 – 2018
+<br>•	Software Installation such as windows and various application
+<br>•	Trouble Shooting computer issues involving in software and hardware and fixing printer issues
+<br>•	Performing typing jobs, editing photos, scanning and printing documents
+<br>•	The role allowed me to enhance my software and technical skills and further develop my ability to work with diverse customers.
+</p>
+
+<p>Skills:</p>
+<br>•	Photo editing
+<br>•	Social media management
+<br>•	Copy-editing
+<br>•	Transcription
+<br>•	Administrative tasks
+<br>•	Customer service
+<br>•	Spreadsheets &
+<br>•	Adobe Photoshop
+<br>•	Ms PowerPoint & Google Slides
+<br>•	Google Suite
+<br>•	MS Office Suite
+<br>•	Facebook, Instagram, Twitter, Pinterest, Youtube & LinkedIn
+<br>•	Facebook & Google Ads
+<br>•	Grammarly
+<br>•	Google Chrome, Mozilla Firefox, MS Edge
+<br>•	Gmail & MS Outlook
+<br>•	Live Chat
+
+</body>
+</html>
